@@ -1,0 +1,20 @@
+.app {
+  min-height: 100vh;
+  padding-bottom: 3rem;
+}
+
+.error-message {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 1rem 1.5rem;
+  background: rgba(239, 68, 68, 0.1);
+  border: 2px solid rgba(239, 68, 68, 0.5);
+  border-radius: 12px;
+  color: #fca5a5;
+  text-align: center;
+}
+
+.error-message p {
+  margin: 0;
+  font-size: 1.1rem;
+}
